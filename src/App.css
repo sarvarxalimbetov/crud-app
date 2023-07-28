@@ -1,0 +1,12 @@
+.students_list {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 750px;
+  height: 80vh;
+  gap: 10px;
+}
+
+.students_list li {
+  width: 70%;
+}
